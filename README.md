@@ -1,5 +1,3 @@
-# WSBStockClassifier
-
 # WSB Stock Classifier
 
 **A GPT-powered sentiment engine that analyzes WallStreetBets posts to gauge market vibes.**
